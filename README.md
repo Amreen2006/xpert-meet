@@ -68,14 +68,4 @@ npm install --save firebase
 - Add your firebase config details to Server/firebase.js.
 - Run "npm run start" to start the app.
 
-<!-- Demo -->
-
-## Demo
-
-- The App can support upto 18 users without having any UI alignment issues and supports many with a little UI issues
-👇👇👇👇
-DEMO LINK
-https://xpert-video-meet.vercel.app/
-👆👆👆👆
-
 
