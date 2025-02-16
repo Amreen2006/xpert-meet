@@ -1,21 +1,3 @@
-# xpert-meet
-
-<p align="center"> 
-  <h3 align="center">WeXpert Meet </h3>
-
-  <h3>Open Presentation Link of this project ->>></h3>
-  <a href="https://www.canva.com/design/DAGMC-wVS6Q/T7J-0ljiLsPT_Ya-FWZNhw/view?utm_content=DAGMC-wVS6Q&utm_campaign=designshare&utm_medium=link&utm_source=editor">Open Presentation Link</a>
-
-  <p align="center">
-    xpert-meet
-    <br />  
-     A Video Conference App with AI Plugins- WeXpert Meet
-    <br />
-  </p>
-</p>
-
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [How To Run](#usage)
