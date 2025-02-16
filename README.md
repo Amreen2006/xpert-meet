@@ -78,10 +78,4 @@ DEMO LINK
 https://xpert-video-meet.vercel.app/
 👆👆👆👆
 
-<!-- CONTACT -->
 
-## Contact
-
-Instagram - [@Instagram](https://www.instagram.com/amaan.m.k/) - syedkhalander66@gmail.com 
-
-Project Link: [https://github.com/Amaan9136/xpert-meet](https://github.com/Amaan9136/xpert-meet)
