@@ -1,13 +1,3 @@
-## Table of Contents
-
-- [How To Run](#usage)
-- [ScreenShots](#demo)
-- [Contact](#contact)
-
-<!-- tutorial -->
-
-<!-- Prerequisites -->
-
 ## Usage
 <!-- install dependencies -->
 # FontAwesome
